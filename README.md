@@ -1,5 +1,14 @@
 # Sia Speaks
-Information about my various tech talks and availability
+
+Hello, I'm a developer in New Orleans who also loves teaching. You can find more information about me and the topics I speak about here. I currently talk about more JavaScript and front-end topics such as React, Redux, Node, and GraphQL. Would you like me to speak at one of your events? <a href="mailto:sia@clioandcalliope.com">Email me</a>, or [DM me on Twitter](https://twitter.com/thegreengreek)!
+
+## Contents
+
+- [Upcoming Talks](#upcoming-talks)
+- [Previous Talks](#previous-talks)
+- [Current Active Topics](#current-active-topics)
+- [Bio](#bio)
+- [Social Media and Other Links](#social-media-and-other-links)
 
 ## Upcoming Talks
 
@@ -49,3 +58,11 @@ We will both cover the concepts and walk through examples step-by-step so that b
 Sia Karamalegos is the founder and lead developer for Clio + Calliope Web Development. She has over 15 years of experience in technology, strategy, project management, and operations from small startups to large corporations across multiple industries, especially high-tech and education. She leverages her depth of experience with software engineering to build high-value applications. 
 
 In both 2015 and 2016, Sia was recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. She graduated from Texas A&M University with a BS in chemical engineering and received her MBA from Harvard Business School.
+
+## Social Media and Other Links
+
+- [Twitter](https://twitter.com/thegreengreek)
+- [Medium](https://medium.com/@thegreengreek)
+- [GitHub](https://github.com/siakaramalegos)
+- [StackOverflow](https://stackoverflow.com/users/5049215/sia?tab=profile)
+- [LinkedIn](https://www.linkedin.com/in/karamalegos)
