@@ -1,22 +1,22 @@
 # Sia Speaks
 
-Hello, I'm a developer in New Orleans who also loves teaching. You can find more information about me and the topics I speak about here. I currently talk about more JavaScript and front-end topics such as React, Redux, Node, and GraphQL. Would you like me to speak at one of your events? <a href="mailto:sia@clioandcalliope.com">Email me</a>, or [DM me on Twitter](https://twitter.com/thegreengreek)!
+Hello, I'm a developer in New Orleans. As a developer, I love building things that help make people's lives easier. As a person, I also love making developer's lives easier through teaching, speaking, and mentoring. You can find more information about me and the topics I speak about here. I currently talk about more JavaScript and front-end topics such as React, Redux, Node, and GraphQL. Would you like me to speak at one of your events? <a href="mailto:sia@clioandcalliope.com">Email me</a>, or [DM me on Twitter](https://twitter.com/thegreengreek)!
 
 ## Contents
 
-- [Upcoming Talks](#upcoming-talks)
-- [Previous Talks](#previous-talks)
+- [Upcoming Talks and Workshops](#upcoming-talks-and-workshops)
+- [Previous Talks and Workshops](#previous-talks-and-workshops)
 - [Current Active Topics](#current-active-topics)
 - [Bio](#bio)
 - [Social Media and Other Links](#social-media-and-other-links)
 
-## Upcoming Talks
+## Upcoming Talks and Workshops
 
 - [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  No REST for the weary... Introducing GraphQL  |  9/22/2017 
 - [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  Lightning Fast React Apps  |  9/22/2017
 - [NodeFest Japan](http://nodefest.jp/2017/) (Tokyo) |  No REST for the weary... Introducing GraphQL  |  11/25/2017
 
-## Previous Talks
+## Previous Talks and Workshops
 
 - [React Next](http://react-next.com/) (Tel Aviv)  |  Universal React Apps Using Next.js  |  9/10/2017  |   [slides + more](https://github.com/siakaramalegos/nextjs-talk)
 - Front-End Party  |  Universal React Apps Using Next.js  |  2017  |  [slides + more](https://github.com/siakaramalegos/nextjs-talk)
@@ -52,6 +52,10 @@ App loading and run-time affect your bottom line. Fancy features aren’t worth 
 Page abandonment increases with every second of load time. Also, profiling and debugging performance issues can seem like an overwhelming topic to learn. In this session, we’ll cover the usual suspects of performance issues, from the basics of using the correct build, to the fundamentals of immutable data, to higher-level tools like Perf, shouldComponentUpdate, PureComponent, and memoizing computed props in Redux. 
 
 We will both cover the concepts and walk through examples step-by-step so that by the end of this session you will feel like a React Speed Racer. You’ll get the most out of this session if you’re at least comfortable with React and ES6 syntax.
+
+### Your Idea Here
+
+Do you need help with a specific topic? Would you prefer a longer workshop instead of a conference-style talk? Let me know!
 
 ## Bio
 
