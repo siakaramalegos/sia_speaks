@@ -12,7 +12,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Upcoming Talks and Workshops
 
-- [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  9/22/2017 
+- [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  9/22/2017  | [slides + more](https://github.com/siakaramalegos/star_wars_graphql)
 - [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [Lightning Fast React Apps](#lightning-fast-react-apps)  |  9/22/2017
 - [NodeFest Japan](http://nodefest.jp/2017/) (Tokyo) |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  11/25/2017
 
