@@ -18,7 +18,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 ## Previous Talks and Workshops
 
 - [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  9/22/2017  | [slides + more](https://github.com/siakaramalegos/star_wars_graphql)
-- [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [Lightning Fast React Apps](#lightning-fast-react-apps)  |  9/22/2017  |  [slides](https://tinyurl.com/lightningreactconnect)
+- [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [Lightning Fast React Apps](#lightning-fast-react-apps)  |  9/22/2017  |  [slides + more](https://github.com/siakaramalegos/react_perf_widget)
 - [React Next](http://react-next.com/) (Tel Aviv)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  9/10/2017  |   [slides + more](https://github.com/siakaramalegos/nextjs-talk)
 - Front-End Party  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  2017  |  [slides + more](https://github.com/siakaramalegos/nextjs-talk)
 - gnocode  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  2017  
