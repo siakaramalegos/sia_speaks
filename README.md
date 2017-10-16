@@ -13,7 +13,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 ## Upcoming Talks and Workshops
 
 - [NodeFest Japan](http://nodefest.jp/2017/) (Tokyo) |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  11/25/2017
-- React Finland (details TBD)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  April 2018
+- [React Finland](https://react-finland.fi/) (Helsinki) |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  April 2018
 
 ## Previous Talks and Workshops
 
@@ -66,6 +66,7 @@ In both 2015 and 2016, Sia was recognized in the Silicon Bayou 100, the 100 most
 
 ## Social Media and Other Links
 
+- [Personal website](https://siakaramalegos.github.io/)
 - [Twitter](https://twitter.com/thegreengreek)
 - [Medium](https://medium.com/@thegreengreek)
 - [GitHub](https://github.com/siakaramalegos)
