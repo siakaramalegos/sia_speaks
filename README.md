@@ -13,6 +13,8 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 ## Upcoming Talks and Workshops
 
 - [Front-End Party](https://www.meetup.com/FrontEndParty/events/237749379/)  |  The Talk About Talks: Submitting Your First CFP & Creating Slides with Reveal-md  |  10/26/2017
+- [Clio + Calliope (tickets here)](https://www.eventbrite.com/e/introduction-to-react-tickets-39025687883)  |  [Intro to React Workshop](#intro-to-react-workshop)  |  New Orleans, LA  | 11/6/2017 - 11/8/2017
+- [Clio + Calliope (tickets here)](https://www.eventbrite.com/e/introduction-to-redux-for-react-applications-tickets-39056683592)  |  [Intro to Redux for React Apps Workshop](#intro-to-redux-for-react-apps-workshop)  |  New Orleans, LA  | 11/13/2017 - 11/15/2017
 - [NodeFest Japan](http://nodefest.jp/2017/) (Tokyo)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  11/25/2017
 - [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  April 2018
 
@@ -54,6 +56,18 @@ App loading and run-time affect your bottom line. Fancy features aren’t worth 
 Page abandonment increases with every second of load time. Also, profiling and debugging performance issues can seem like an overwhelming topic to learn. In this session, we’ll cover the usual suspects of performance issues, from the basics of using the correct build, to the fundamentals of immutable data, to higher-level tools like Perf, shouldComponentUpdate, PureComponent, and memoizing computed props in Redux. 
 
 We will both cover the concepts and walk through examples step-by-step so that by the end of this session you will feel like a React Speed Racer. You’ll get the most out of this session if you’re at least comfortable with React and ES6 syntax.
+
+### Intro to React Workshop
+
+Level up your front-end development skills using React! React is a JavaScript library for building user interfaces, and one of the hottest front-end libraries currently used in modern web development. Come learn what this library is all about and how we can build simple, declarative user interfaces using components.
+
+In the time-honored tradition of our people, we will start with a Hello World app but quickly move forward with learning JSX, or JavaScript XML, rendering and components, events and state, lifecycle methods, state in large applications, and using APIs in React. On top of that, we will learn all the relevant ES6 features that are widely used in the React community.
+
+### Intro to Redux for React Apps Workshop
+
+Once you have a solid foundation in React, it quickly becomes clear that managing state in larger applications can be challenging. Redux is a predictable state container for JavaScript apps. Redux makes scaling React applications easier. Come learn about this popular state management library and level up your React development skills!
+
+The first part of this workshop will focus on the core functionality of Redux - pure functions, actions, reducers, and the store. After we build that foundation, we will layer in the React-Redux bindings and learn about components vs containers, building containers, accessing the store, async actions, middleware, thunks, hydrating data, and server-side fetching using Node + Express.
 
 ### Your Idea Here
 
