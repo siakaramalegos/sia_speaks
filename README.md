@@ -7,7 +7,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 - [Upcoming Talks and Workshops](#upcoming-talks-and-workshops)
 - [Previous Talks and Workshops](#previous-talks-and-workshops)
 - [Current Active Topics](#current-active-topics)
-- [Bio](#bio)
+- [Bio and Testimonials](#bio-and-testimonials)
 - [Social Media and Other Links](#social-media-and-other-links)
 
 ## Upcoming Talks and Workshops
@@ -73,11 +73,17 @@ The first part of this workshop will focus on the core functionality of Redux - 
 
 Do you need help with a specific topic? Would you prefer a longer workshop instead of a conference-style talk? Let me know!
 
-## Bio
+## Bio and Testimonials
 
-Sia Karamalegos is the founder and lead developer for Clio + Calliope Web Development. She has over 15 years of experience in technology, strategy, project management, and operations from small startups to large corporations across multiple industries, especially high-tech and education. She leverages her depth of experience with software engineering to build high-value applications. 
+### Bio
+
+Sia Karamalegos is the founder and lead developer Clio + Calliope, a mobile and web design and development firm based in New Orleans. She has over 15 years of experience in technology, strategy, project management, and operations from small startups to large corporations across multiple industries, especially high-tech and education. She taught web development to adults at Tech Talent South, a southern-based tech education company, and wrote curriculum for Viking Code School, the top online software engineering training and job placement program.
 
 In both 2015 and 2016, Sia was recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. She graduated from Texas A&M University with a BS in chemical engineering and received her MBA from Harvard Business School.
+
+### Testimonials 
+
+"Sia was my instructor at Tech Talent South. Thanks to her I've been able to move forward in my career as a Software Developer. Her knowledge and endless patience for our questions created a foundation that I've been building on ever since. She is a fantastic teacher." *-- Ryan Hageman, independent software developer*
 
 ## Social Media and Other Links
 
