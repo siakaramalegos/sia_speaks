@@ -12,7 +12,6 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Upcoming Talks and Workshops
 
-- [Front-End Party](https://www.meetup.com/FrontEndParty/events/237749379/)  |  The Talk About Talks: Submitting Your First CFP & Creating Slides with Reveal-md  |  10/26/2017
 - [Clio + Calliope (tickets here)](https://www.eventbrite.com/e/introduction-to-react-tickets-39025687883)  |  [Intro to React Workshop](#intro-to-react-workshop)  |  New Orleans, LA  | 11/6/2017 - 11/8/2017
 - [Clio + Calliope (tickets here)](https://www.eventbrite.com/e/introduction-to-redux-for-react-applications-tickets-39056683592)  |  [Intro to Redux for React Apps Workshop](#intro-to-redux-for-react-apps-workshop)  |  New Orleans, LA  | 11/13/2017 - 11/15/2017
 - [NodeFest Japan](http://nodefest.jp/2017/) (Tokyo)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  11/25/2017
@@ -20,6 +19,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Previous Talks and Workshops
 
+- [Front-End Party](https://www.meetup.com/FrontEndParty/events/237749379/)  |  The Talk About Talks: Submitting Your First CFP & Creating Slides with Reveal-md  |  10/26/2017
 - [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  9/22/2017  | [slides + more](https://github.com/siakaramalegos/star_wars_graphql)
 - [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [Lightning Fast React Apps](#lightning-fast-react-apps)  |  9/22/2017  |  [slides + more](https://github.com/siakaramalegos/react_perf_widget)
 - [React Next](http://react-next.com/) (Tel Aviv)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  9/10/2017  |   [slides + more](https://github.com/siakaramalegos/nextjs-talk)
@@ -36,6 +36,12 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 - Tech Talent South  |  Ruby on Rails 8-week boot camp  |  2015-2016
 
 ## Current Active Topics
+
+### Front-End Performance Still Matters (_new!_)
+Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. What things should we always do versus only do when performance is slow? What data should we use to inform our decisions? From code splitting, lazy loading, and tree shaking to image optimization and store architecture, come learn how you can deliver a better experience to your users with high-performing front-end apps. This talk uses Webpack and ES6 but is library-agnostic (React, Angular, Vue, etc.).
+
+### Choose your own adventure: Weird web APIs (_new!_)
+Today I learned WebUSB is a thing. WebUSB provides a way for USB device drivers to be implemented in pure JavaScript. A whole world of Web APIs exists that most of us don’t even know about! Detecting DOM changes, payments, speech recognition, bluetooth… Come open up the secret treasure chest of weird, cool, and seriously awesome Web APIs, and discover a whole new set of JavaScript web adventures!
 
 ### Universal React Apps Using Next.js
 
