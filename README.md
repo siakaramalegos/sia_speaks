@@ -12,8 +12,6 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Upcoming Talks and Workshops
 
-- [Clio + Calliope (tickets here)](https://www.eventbrite.com/e/introduction-to-react-tickets-39025687883)  |  [Intro to React Workshop](#intro-to-react-workshop)  |  New Orleans, LA  | 11/6/2017 - 11/8/2017
-- [Clio + Calliope (tickets here)](https://www.eventbrite.com/e/introduction-to-redux-for-react-applications-tickets-39056683592)  |  [Intro to Redux for React Apps Workshop](#intro-to-redux-for-react-apps-workshop)  |  New Orleans, LA  | 11/13/2017 - 11/15/2017
 - [NodeFest Japan](http://nodefest.jp/2017/) (Tokyo)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  11/25/2017
 - [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  April 2018
 
