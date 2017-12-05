@@ -19,6 +19,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Previous Talks and Workshops
 
+- Loyola University  |  Professionalism in Software Engineering  |  12/5/2017  |  [resources](https://gist.github.com/siakaramalegos/4bedd1484b1cb8668a3ec1805c8a091e)
 - [NodeFest Japan](http://nodefest.jp/2017/) (Tokyo)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  11/25/2017  |  [slides + more](https://github.com/siakaramalegos/star_wars_graphql)
 - [Front-End Party](https://www.meetup.com/FrontEndParty/events/237749379/)  |  The Talk About Talks: Submitting Your First CFP & Creating Slides with Reveal-md  |  10/26/2017
 - [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  9/22/2017  | [slides + more](https://github.com/siakaramalegos/star_wars_graphql)
