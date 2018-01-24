@@ -12,7 +12,8 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Upcoming Talks and Workshops
 
-- [AgentConf](https://www.agent.sh/) (Dornbirn, Austria)  |  [Lightning Fast React Apps](#lightning-fast-react-apps)  |  1/25/2018
+- [AgentConf](https://www.agent.sh/) (Dornbirn, Austria)  |  [Lightning Fast React Apps](#lightning-fast-react-apps)  |  1/25/2018  |  [slides + more](https://github.com/siakaramalegos/lighting_fast_react)
+- [Activate Conference](http://www.activateconf.com/) (Baton Rouge)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  2/24/2018
 - [JazzCon.Tech](http://jazzcon.tech/) (New Orleans)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  3/22/2018
 - [JazzCon.Tech](http://jazzcon.tech/) (New Orleans)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/22/2018
 - [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  4/24/2018
