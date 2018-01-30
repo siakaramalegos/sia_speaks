@@ -12,14 +12,15 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Upcoming Talks and Workshops
 
-- [AgentConf](https://www.agent.sh/) (Dornbirn, Austria)  |  [Lightning Fast React Apps](#lightning-fast-react-apps)  |  1/25/2018  |  [slides + more](https://github.com/siakaramalegos/lighting_fast_react)
 - [Activate Conference](http://www.activateconf.com/) (Baton Rouge)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  2/24/2018
 - [JazzCon.Tech](http://jazzcon.tech/) (New Orleans)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  3/22/2018
 - [JazzCon.Tech](http://jazzcon.tech/) (New Orleans)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/22/2018
+- [React Dev Summit 2018](https://reactdevsummit.com/) Denver, CO or online  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/26 - 3/30/2018
 - [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  4/24/2018
 
 ## Previous Talks and Workshops
 
+- [AgentConf](https://www.agent.sh/) (Dornbirn, Austria)  |  [Lightning Fast React Apps](#lightning-fast-react-apps)  |  1/25/2018  |  [slides + more](https://github.com/siakaramalegos/lighting_fast_react)
 - Loyola University  |  Professionalism in Software Engineering  |  12/5/2017  |  [resources](https://gist.github.com/siakaramalegos/4bedd1484b1cb8668a3ec1805c8a091e)
 - [NodeFest Japan](http://nodefest.jp/2017/) (Tokyo)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  11/25/2017  |  [slides + more](https://github.com/siakaramalegos/star_wars_graphql)
 - [Front-End Party](https://www.meetup.com/FrontEndParty/events/237749379/)  |  The Talk About Talks: Submitting Your First CFP & Creating Slides with Reveal-md  |  10/26/2017
