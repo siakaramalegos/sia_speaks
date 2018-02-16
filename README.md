@@ -12,10 +12,11 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Upcoming Talks and Workshops
 
-- [Activate Conference](http://www.activateconf.com/) (Baton Rouge)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  2/24/2018
-- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  3/22/2018
-- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/22/2018
-- [React Dev Summit 2018](https://reactdevsummit.com/) Denver, CO or online  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/26 - 3/30/2018
+- [gnocode](https://www.meetup.com/gnocode/events/246856658/)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  2/20/2018
+- [Activate Conference](http://www.activateconf.com/) (Baton Rouge, LA)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  2/24/2018
+- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  3/22/2018
+- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/22/2018
+- [React Dev Summit 2018](https://reactdevsummit.com/) (Denver, CO or online)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/26/2018
 - [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  4/24/2018
 
 ## Previous Talks and Workshops
