@@ -12,8 +12,9 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Upcoming Talks and Workshops
 
-- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  3/22/2018
-- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/22/2018
+- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Next-level React Workshop: React Router, Redux and more hands-ons](#intro-to-redux-for-react-apps-workshop)  |  3/21/2018
+- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  3/23/2018
+- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/23/2018
 - [React Dev Summit 2018](https://reactdevsummit.com/) (Denver, CO or online)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/26/2018
 - [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  4/24/2018
 
