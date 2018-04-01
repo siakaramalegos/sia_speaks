@@ -44,7 +44,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 ## Current Active Topics
 
 ### Front-End Performance Still Matters (_new!_)
-Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. What things should we always do versus only do when performance is slow? What data should we use to inform our decisions? From code splitting, lazy loading, and tree shaking to image optimization and store architecture, come learn how you can deliver a better experience to your users with high-performing front-end apps. This talk uses Webpack and ES6 but is library-agnostic (React, Angular, Vue, etc.).
+Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. What data should we use to inform our decisions? From code splitting, lazy loading, and tree shaking to bundle analysis, progressive rendering, and modern transpiling, come learn how you can deliver a better experience to your users with high-performing front-end apps using Webpack. This talk is library-agnostic (React, Angular, Vue, etc.).
 
 ### Choose your own adventure: Weird web APIs (_new!_)
 Today I learned WebUSB is a thing. WebUSB provides a way for USB device drivers to be implemented in pure JavaScript. A whole world of Web APIs exists that most of us don’t even know about! Detecting DOM changes, payments, speech recognition, bluetooth… Come open up the secret treasure chest of weird, cool, and seriously awesome Web APIs, and discover a whole new set of JavaScript web adventures!
