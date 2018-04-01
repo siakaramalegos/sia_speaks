@@ -46,20 +46,16 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 ### Front-End Performance Still Matters (_new!_)
 Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. What data should we use to inform our decisions? From code splitting, lazy loading, and tree shaking to bundle analysis, progressive rendering, and modern transpiling, come learn how you can deliver a better experience to your users with high-performing front-end apps using Webpack. This talk is library-agnostic (React, Angular, Vue, etc.).
 
+### Don't Unmount Your Whole App: Error Boundaries in React 16 (_new!_)
+
+One of the major changes in React 16 is how errors are handled. Now, errors not caught by an error boundary will cause the whole app to unmount! So what is an error boundary? How is it implemented? Where should you put them? Why did Facebook do this? Come learn about how error boundaries help avoid crashed apps, improve user experience, and more.
+
 ### Choose your own adventure: Weird web APIs (_new!_)
 Today I learned WebUSB is a thing. WebUSB provides a way for USB device drivers to be implemented in pure JavaScript. A whole world of Web APIs exists that most of us don’t even know about! Detecting DOM changes, payments, speech recognition, bluetooth… Come open up the secret treasure chest of weird, cool, and seriously awesome Web APIs, and discover a whole new set of JavaScript web adventures!
 
 ### Universal React Apps Using Next.js
 
 Every user’s hardware is different, and processing speed can hinder user experience on client-side rendered React applications. Server-side rendering and code-splitting can drastically improve user experience by minimizing the work that the client has to do. It’s easy to get lost in the lingo, so come learn what it all means and how to easily build universal React apps using the Next.js framework. We’ll walk through the concepts and use code examples to cement your understanding. You’ll get the most out of this session if you’re comfortable with React and ES6 syntax.
-
-### No REST for the weary... Introducing GraphQL
-
-RESTful APIs can make fetching data pretty hairy sometimes, but fetching data doesn’t have to be so difficult. Enter GraphQL… the query language where you can ask for exactly what you need with a single HTTP request. Come learn what all the buzz is about!
-
-What is GraphQL? How does it differ from REST? In this session, I’ll answer these questions as well as give you an overview of the ecosystem. Of course, an introduction would not be complete without a demonstration of how to use GraphQL, including queries, resolving, integrating into a front-end app, and more!  
-
-You’ll get the most out of this session if you’re familiar with JavaScript and ES6 syntax. You’ll get all the fancy concepts you need through code examples. The last part of the demo will show integration with a React app, but it’s not critical that you know React to learn the fundamentals of GraphQL from this session.
 
 ### Intro to React Workshop
 
@@ -78,6 +74,14 @@ The first part of this workshop will focus on the core functionality of Redux - 
 Do you need help with a specific topic? Would you prefer a longer workshop instead of a conference-style talk? Let me know!
 
 ### Archived Talks
+
+### No REST for the weary... Introducing GraphQL
+
+RESTful APIs can make fetching data pretty hairy sometimes, but fetching data doesn’t have to be so difficult. Enter GraphQL… the query language where you can ask for exactly what you need with a single HTTP request. Come learn what all the buzz is about!
+
+What is GraphQL? How does it differ from REST? In this session, I’ll answer these questions as well as give you an overview of the ecosystem. Of course, an introduction would not be complete without a demonstration of how to use GraphQL, including queries, resolving, integrating into a front-end app, and more!  
+
+You’ll get the most out of this session if you’re familiar with JavaScript and ES6 syntax. You’ll get all the fancy concepts you need through code examples. The last part of the demo will show integration with a React app, but it’s not critical that you know React to learn the fundamentals of GraphQL from this session.
 
 #### Lightning Fast React Apps
 
