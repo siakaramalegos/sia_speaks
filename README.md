@@ -75,7 +75,7 @@ Do you need help with a specific topic? Would you prefer a longer workshop inste
 
 ### Archived Talks
 
-### No REST for the weary... Introducing GraphQL
+#### No REST for the weary... Introducing GraphQL
 
 RESTful APIs can make fetching data pretty hairy sometimes, but fetching data doesn’t have to be so difficult. Enter GraphQL… the query language where you can ask for exactly what you need with a single HTTP request. Come learn what all the buzz is about!
 
