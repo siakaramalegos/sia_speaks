@@ -97,7 +97,7 @@ We will both cover the concepts and walk through examples step-by-step so that b
 
 Sia Karamalegos is the founder and lead developer Clio + Calliope, a mobile and web design and development firm based in New Orleans. She has over 15 years of experience in technology, strategy, project management, and operations from small startups to large corporations across multiple industries, especially high-tech and education. She taught web development to adults at Tech Talent South, a southern-based tech education company, and wrote curriculum for Viking Code School, the top online software engineering training and job placement program.
 
-In both 2015 and 2016, Sia was recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. She graduated from Texas A&M University with a BS in chemical engineering and received her MBA from Harvard Business School.
+In 2015, 2016, and 2017, Sia was recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. She graduated from Texas A&M University with a BS in chemical engineering and received her MBA from Harvard Business School.
 
 ### Bio - Short
 
