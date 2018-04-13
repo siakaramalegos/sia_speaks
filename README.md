@@ -13,7 +13,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 ## Upcoming Talks and Workshops
 
 - [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  4/24/2018
-- [Web Summer Camp](http://2018.websummercamp.com/) (Rovinj, Croatia)  |  [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4)  |  8/29/2018
+- [Web Summer Camp](http://2018.websummercamp.com/) (Rovinj, Croatia)  |  [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop-new)  |  8/29/2018
 
 ## Previous Talks and Workshops
 
