@@ -13,6 +13,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 ## Upcoming Talks and Workshops
 
 - [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  4/24/2018
+- [Web Summer Camp](http://2018.websummercamp.com/) (Rovinj, Croatia)  |  [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4)  |  8/29/2018
 
 ## Previous Talks and Workshops
 
@@ -50,8 +51,9 @@ Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s ea
 
 One of the major changes in React 16 is how errors are handled. Now, errors not caught by an error boundary will cause the whole app to unmount! So what is an error boundary? How is it implemented? Where should you put them? Why did Facebook do this? Come learn about how error boundaries help avoid crashed apps, improve user experience, and more.
 
-### Choose your own adventure: Weird web APIs (_new!_)
-Today I learned WebUSB is a thing. WebUSB provides a way for USB device drivers to be implemented in pure JavaScript. A whole world of Web APIs exists that most of us don’t even know about! Detecting DOM changes, payments, speech recognition, bluetooth… Come open up the secret treasure chest of weird, cool, and seriously awesome Web APIs, and discover a whole new set of JavaScript web adventures!
+### Getting to Know Webpack 4 Workshop (_new!_)
+
+Are you afraid of your build tool? Fret no more. Come learn the basics of Webpack, using the new version 4. We'll learn about the new features such as sensible defaults as well as the core features. During this workshop, we will build a simple application using JavaScript, HTML, CSS, and images to understand all parts of setting up the build tool.
 
 ### Universal React Apps Using Next.js
 
