@@ -12,11 +12,11 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Upcoming Talks and Workshops
 
-- [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  4/24/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-workshop-demo)
 - [Web Summer Camp](http://2018.websummercamp.com/) (Rovinj, Croatia)  |  [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop-new)  |  8/29/2018
 
 ## Previous Talks and Workshops
 
+- [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  4/24/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-workshop-demo)
 - [React Dev Summit 2018](https://reactdevsummit.com/) (Denver, CO or online)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/26/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-talk)
 - [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  3/23/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9b50ec1637a7995b48462440728e7952)
 - [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/23/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-talk)
