@@ -13,7 +13,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 ## Upcoming Talks and Workshops
 
 - [Web Summer Camp](http://2018.websummercamp.com/) (Rovinj, Croatia)  |  [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop-new)  |  8/29/2018
-- [Connect.Tech]()http://connect.tech/ (Atlanta, GA)  |  TBD  |  10/17-10/19/2018
+- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  TBD  |  10/17-10/19/2018
  
 ## Previous Talks and Workshops
 
