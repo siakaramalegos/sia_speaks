@@ -1,6 +1,6 @@
 # Sia Speaks
 
-Hello, I'm a developer in New Orleans. As a developer, I love building things that help make people's lives easier. As a person, I also love making developer's lives easier through teaching, speaking, and mentoring. You can find more information about me and the topics I speak about here. I currently talk about more JavaScript and front-end topics such as React, Redux, Node, and GraphQL. Would you like me to speak at one of your events? <a href="mailto:sia@clioandcalliope.com">Email me</a>, or [DM me on Twitter](https://twitter.com/thegreengreek)!
+Hello, I'm a developer in New Orleans. As a developer, I love building things that help make people's lives easier. As a person, I also love making developer's lives easier through teaching, speaking, and mentoring. You can find more information about me and the topics I speak about here. I currently talk about more JavaScript and front-end topics such as JavaScript, front-end performance, React, Redux, Node, and GraphQL. Would you like me to speak at one of your events? <a href="mailto:sia@clioandcalliope.com">Email me</a>, or [DM me on Twitter](https://twitter.com/thegreengreek)!
 
 ## Contents
 
