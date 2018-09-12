@@ -12,12 +12,13 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Upcoming Talks and Workshops
 
-- [Full Stack Fest](https://2018.fullstackfest.com/) (Barcelona)  |  [The Future of Front-End Performance](#front-end-performance-still-matters-new)  |  9/7/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
-- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [Next-level React Workshop: Redux and React Router](#intro-to-redux-for-react-apps-workshop)  |  10/17-10/19/2018
+- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [Next-level React Workshop: Redux and React Router](#intro-to-redux-for-react-apps-workshop)  |  10/17/2018
+- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [The Future of Front-End Performance](#front-end-performance-still-matters-new)  |  10/19/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
 - [Full Stack Toronto](https://www.fsto.co/) (Toronto)  |  [The Future of Front-End Performance](#front-end-performance-still-matters-new)  |  11/29/2018
  
 ## Previous Talks and Workshops
 
+- [Full Stack Fest](https://2018.fullstackfest.com/) (Barcelona)  |  [The Future of Front-End Performance](#front-end-performance-still-matters-new)  |  9/7/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
 - [Web Summer Camp](http://2018.websummercamp.com/) (Rovinj, Croatia)  |  [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop-new)  |  8/29/2018
 - [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js - Workshop and Talk](#universal-react-apps-using-nextjs)  |  4/24/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-workshop-demo)
 - [React Dev Summit 2018](https://reactdevsummit.com/) (Denver, CO or online)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/26/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-talk)
@@ -48,7 +49,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 ## Current Active Topics
 
 ### Front-End Performance Still Matters (_new!_)
-Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. What data should we use to inform our decisions? From code splitting, lazy loading, and tree shaking to bundle analysis, progressive rendering, and modern transpiling, come learn how you can deliver a better experience to your users with high-performing front-end apps using Webpack. This talk is library-agnostic (React, Angular, Vue, etc.).
+Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. What data should we use to inform our decisions? From code splitting, lazy loading, and tree shaking to bundle analysis, progressive rendering, and modern transpiling, come learn how you can deliver a better experience to your users with high-performing front-end apps. This talk is library-agnostic (React, Angular, Vue, etc.).
 
 ### Don't Unmount Your Whole App: Error Boundaries in React 16 (_new!_)
 
