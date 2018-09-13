@@ -48,7 +48,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Current Active Topics
 
-### Front-End Performance Still Matters (_new!_)
+### The Future of Front-End Performance (_new!_)
 Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. What data should we use to inform our decisions? From code splitting, lazy loading, and tree shaking to bundle analysis, progressive rendering, and modern transpiling, come learn how you can deliver a better experience to your users with high-performing front-end apps. This talk is library-agnostic (React, Angular, Vue, etc.).
 
 ### Don't Unmount Your Whole App: Error Boundaries in React 16 (_new!_)
