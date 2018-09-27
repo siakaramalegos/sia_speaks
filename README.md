@@ -12,7 +12,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Upcoming Talks and Workshops
 
-- [Front-End Party](https://www.meetup.com/FrontEndParty/events/247074175/) (New Orleans, LA)  |  Responsive Images  |  9/27/2018
+- [Front-End Party](https://www.meetup.com/FrontEndParty/events/247074175/) (New Orleans, LA)  |  Responsive Images  |  9/27/2018  |  [demo + resources](https://github.com/siakaramalegos/responsive-images-demo)
 - [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [Next-level React Workshop: Redux and React Router](#intro-to-redux-for-react-apps-workshop)  |  10/17/2018
 - [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [The Future of Front-End Performance](#the-future-of-front-end-performance-new)  |  10/19/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
  
