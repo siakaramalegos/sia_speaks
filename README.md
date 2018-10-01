@@ -12,7 +12,7 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Upcoming Talks and Workshops
 
-- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [Next-level React Workshop: Redux and React Router](#intro-to-redux-for-react-apps-workshop)  |  10/17/2018
+- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [Next-level React Workshop: Redux and React Router](#next-level-react-workshop-react-router-redux-and-more)  |  10/17/2018
 - [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [The Future of Front-End Performance](#the-future-of-front-end-performance-new)  |  10/19/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
  
 ## Previous Talks and Workshops
@@ -24,19 +24,19 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 - [React Dev Summit 2018](https://reactdevsummit.com/) (Denver, CO or online)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/26/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-talk)
 - [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Front-End Performance Still Matters](#the-future-of-front-end-performance-new)  |  3/23/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9b50ec1637a7995b48462440728e7952)
 - [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/23/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-talk)
-- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Next-level React Workshop: Redux and React Router](#intro-to-redux-for-react-apps-workshop)  |  3/21/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9248265683886ad3cd2c98a71d46bef9)
+- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Next-level React Workshop: Redux and React Router](#next-level-react-workshop-react-router-redux-and-more)  |  3/21/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9248265683886ad3cd2c98a71d46bef9)
 - [Activate Conference](http://www.activateconf.com/) (Baton Rouge, LA)  |  [Front-End Performance Still Matters](#the-future-of-front-end-performance-new)  |  2/24/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9b50ec1637a7995b48462440728e7952)
 - [gnocode](https://www.meetup.com/gnocode/events/246856658/)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  2/20/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9b50ec1637a7995b48462440728e7952)
-- [AgentConf](https://www.agent.sh/) (Dornbirn, Austria)  |  [Lightning Fast React Apps](#lightning-fast-react-apps)  |  1/25/2018  |  [slides + more](https://github.com/siakaramalegos/lighting_fast_react)
+- [AgentConf](https://www.agent.sh/) (Dornbirn, Austria)  |  [Lightning Fast React Apps](https://github.com/siakaramalegos/sia_speaks/blob/master/archive.md#lightning-fast-react-apps)  |  1/25/2018  |  [slides + more](https://github.com/siakaramalegos/lighting_fast_react)
 - Loyola University  |  Professionalism in Software Engineering  |  12/5/2017  |  [resources](https://gist.github.com/siakaramalegos/4bedd1484b1cb8668a3ec1805c8a091e)
-- [NodeFest Japan](http://nodefest.jp/2017/) (Tokyo)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  11/25/2017  |  [slides + more](https://github.com/siakaramalegos/star_wars_graphql)
+- [NodeFest Japan](http://nodefest.jp/2017/) (Tokyo)  |  [No REST for the weary... Introducing GraphQL](https://github.com/siakaramalegos/sia_speaks/blob/master/archive.md#no-rest-for-the-weary-introducing-graphql)  |  11/25/2017  |  [slides + more](https://github.com/siakaramalegos/star_wars_graphql)
 - [Front-End Party](https://www.meetup.com/FrontEndParty/events/237749379/)  |  The Talk About Talks: Submitting Your First CFP & Creating Slides with Reveal-md  |  10/26/2017
-- [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  9/22/2017  | [slides + more](https://github.com/siakaramalegos/star_wars_graphql)
-- [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [Lightning Fast React Apps](#lightning-fast-react-apps)  |  9/22/2017  |  [slides + more](https://github.com/siakaramalegos/react_perf_widget)
+- [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [No REST for the weary... Introducing GraphQL](https://github.com/siakaramalegos/sia_speaks/blob/master/archive.md#no-rest-for-the-weary-introducing-graphql)  |  9/22/2017  | [slides + more](https://github.com/siakaramalegos/star_wars_graphql)
+- [Connect Tech](http://connect.tech/) (Atlanta, GA)  |  [Lightning Fast React Apps](https://github.com/siakaramalegos/sia_speaks/blob/master/archive.md#lightning-fast-react-apps)  |  9/22/2017  |  [slides + more](https://github.com/siakaramalegos/react_perf_widget)
 - [React Next](http://react-next.com/) (Tel Aviv)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  9/10/2017  |   [slides + more](https://github.com/siakaramalegos/nextjs-talk)
 - Front-End Party  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  2017  |  [slides + more](https://github.com/siakaramalegos/nextjs-talk)
-- gnocode  |  [No REST for the weary... Introducing GraphQL](#no-rest-for-the-weary-introducing-graphql)  |  2017  
-- Front-End Party  |  [Lightning Fast React Apps](#lightning-fast-react-apps)  |  2017  |  [slides](https://tinyurl.com/lightningreact)
+- gnocode  |  [No REST for the weary... Introducing GraphQL](https://github.com/siakaramalegos/sia_speaks/blob/master/archive.md#no-rest-for-the-weary-introducing-graphql)  |  2017  
+- Front-End Party  |  [Lightning Fast React Apps](https://github.com/siakaramalegos/sia_speaks/blob/master/archive.md#lightning-fast-react-apps)  |  2017  |  [slides](https://tinyurl.com/lightningreact)
 - Front-End Party  |  Serialized Forms In React  |  2017  |  [slides](https://tinyurl.com/yb885ycz) 
 - Front-End Party  |  Getting Started With React  |  2016  |  [slides](https://speakerdeck.com/siakaramalegos/getting-started-with-react)
 - gnocode  |  Data for Web Applications  |  2016
