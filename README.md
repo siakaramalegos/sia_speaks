@@ -4,11 +4,20 @@ Hello, I'm a developer in New Orleans. As a developer, I love building things th
 
 ## Contents
 
+- [Videos](#videos)
 - [Upcoming Talks and Workshops](#upcoming-talks-and-workshops)
 - [Previous Talks and Workshops](#previous-talks-and-workshops)
 - [Current Active Topics](#current-active-topics)
 - [Bio and Testimonials](#bio-and-testimonials)
 - [Social Media and Other Links](#social-media-and-other-links)
+
+## Videos
+
+Here's my most recently recorded talk from Full Stack Fest in Barcelona:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SA_Hp8l7lr4
+" target="_blank"><img src="http://img.youtube.com/vi/SA_Hp8l7lr4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Upcoming Talks and Workshops
 
