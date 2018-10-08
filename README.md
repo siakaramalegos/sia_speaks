@@ -23,9 +23,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 - [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [Next-level React Workshop: Redux and React Router](#next-level-react-workshop-react-router-redux-and-more)  |  10/17/2018
 - [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [The Future of Front-End Performance](#the-future-of-front-end-performance-new)  |  10/19/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
-- [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) | 12/3/2018 |  [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop-new)
-- [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) | 12/4/2018 |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)
-- [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) | 12/5/2018 |  [The Future of Front-End Performance](#the-future-of-front-end-performance-new)
+- [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) | [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop-new)  |  12/3/2018 
+- [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs) | 12/4/2018
+- [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [The Future of Front-End Performance](#the-future-of-front-end-performance-new) | 12/5/2018
 
  
 ## Previous Talks and Workshops
