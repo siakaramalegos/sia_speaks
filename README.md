@@ -22,25 +22,25 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ## Upcoming Talks and Workshops
 
 - [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [Next-level React Workshop: Redux and React Router](#next-level-react-workshop-react-router-redux-and-more)  |  10/17/2018
-- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [The Future of Front-End Performance](#the-future-of-front-end-performance-new)  |  10/19/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
-- [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) | [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop-new)  |  12/3/2018 
+- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [The Future of Front-End Performance](#the-future-of-front-end-performance)  |  10/19/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
+- [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) | [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop)  |  12/3/2018 
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs) | 12/4/2018
-- [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [The Future of Front-End Performance](#the-future-of-front-end-performance-new) | 12/5/2018
+- [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [The Future of Front-End Performance](#the-future-of-front-end-performance) | 12/5/2018
 
  
 ## Previous Talks and Workshops
 
-- [Front-End Party](https://www.meetup.com/FrontEndParty/events/247074175/) (New Orleans, LA)  |  [Responsive Images](#responsive-images-new)  |  9/27/2018  |  [slides + demo + resources](https://github.com/siakaramalegos/responsive-images-demo)
-- [Full Stack Fest](https://2018.fullstackfest.com/) (Barcelona)  |  [The Future of Front-End Performance](#the-future-of-front-end-performance-new)  |  9/7/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
-- [Web Summer Camp](http://2018.websummercamp.com/) (Rovinj, Croatia)  |  [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop-new)  |  8/29/2018
+- [Front-End Party](https://www.meetup.com/FrontEndParty/events/247074175/) (New Orleans, LA)  |  [Responsive Images](#responsive-images)  |  9/27/2018  |  [slides + demo + resources](https://github.com/siakaramalegos/responsive-images-demo)
+- [Full Stack Fest](https://2018.fullstackfest.com/) (Barcelona)  |  [The Future of Front-End Performance](#the-future-of-front-end-performance)  |  9/7/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
+- [Web Summer Camp](http://2018.websummercamp.com/) (Rovinj, Croatia)  |  [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop)  |  8/29/2018
 - [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js (talk)](#universal-react-apps-using-nextjs)  |  4/25/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-workshop-demo)
 - [React Finland](https://react-finland.fi/) (Helsinki)  |  [Universal React Apps Using Next.js Workshop](#universal-react-apps-using-nextjs)  |  4/24/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-workshop-demo)
 - [React Dev Summit 2018](https://reactdevsummit.com/) (Denver, CO or online)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/26/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-talk)
-- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Front-End Performance Still Matters](#the-future-of-front-end-performance-new)  |  3/23/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9b50ec1637a7995b48462440728e7952)
+- [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Front-End Performance Still Matters](#the-future-of-front-end-performance)  |  3/23/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9b50ec1637a7995b48462440728e7952)
 - [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs)  |  3/23/2018  |  [slides + more](https://github.com/siakaramalegos/nextjs-talk)
 - [JazzCon.Tech](http://jazzcon.tech/) (New Orleans, LA)  |  [Next-level React Workshop: Redux and React Router](#next-level-react-workshop-react-router-redux-and-more)  |  3/21/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9248265683886ad3cd2c98a71d46bef9)
-- [Activate Conference](http://www.activateconf.com/) (Baton Rouge, LA)  |  [Front-End Performance Still Matters](#the-future-of-front-end-performance-new)  |  2/24/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9b50ec1637a7995b48462440728e7952)
-- [gnocode](https://www.meetup.com/gnocode/events/246856658/)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters-new)  |  2/20/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9b50ec1637a7995b48462440728e7952)
+- [Activate Conference](http://www.activateconf.com/) (Baton Rouge, LA)  |  [Front-End Performance Still Matters](#the-future-of-front-end-performance)  |  2/24/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9b50ec1637a7995b48462440728e7952)
+- [gnocode](https://www.meetup.com/gnocode/events/246856658/)  |  [Front-End Performance Still Matters](#front-end-performance-still-matters)  |  2/20/2018  |  [slides + more](https://gist.github.com/siakaramalegos/9b50ec1637a7995b48462440728e7952)
 - [AgentConf](https://www.agent.sh/) (Dornbirn, Austria)  |  [Lightning Fast React Apps](https://github.com/siakaramalegos/sia_speaks/blob/master/archive.md#lightning-fast-react-apps)  |  1/25/2018  |  [slides + more](https://github.com/siakaramalegos/lighting_fast_react)
 - Loyola University  |  Professionalism in Software Engineering  |  12/5/2017  |  [resources](https://gist.github.com/siakaramalegos/4bedd1484b1cb8668a3ec1805c8a091e)
 - [NodeFest Japan](http://nodefest.jp/2017/) (Tokyo)  |  [No REST for the weary... Introducing GraphQL](https://github.com/siakaramalegos/sia_speaks/blob/master/archive.md#no-rest-for-the-weary-introducing-graphql)  |  11/25/2017  |  [slides + more](https://github.com/siakaramalegos/star_wars_graphql)
@@ -62,13 +62,18 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Current Active Topics
 
-### The Future of Front-End Performance (_new!_)
+### How I took back my sanity: Coming back from the brink of tech addiction
+_(This is a soft talk on my story and strategies for combatting device and social media addiction and distraction.)_
+
+Our lives aren’t our lives anymore. We distract ourselves with social media. We stress about negative news and discourse. We avoid the tough problems. Over the last eight years, I’ve made a sea change in my levels of stress and happiness. I’m sharing my discoveries in the hopes that it can help you in your own journey to contentment. 
+
+### The Future of Front-End Performance
 Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. What data should we use to inform our decisions? From code splitting, lazy loading, and tree shaking to bundle analysis, progressive rendering, and modern transpiling, come learn how you can deliver a better experience to your users with high-performing front-end apps. This talk is library-agnostic (React, Angular, Vue, etc.).
 
-### Responsive Images (_new!_)
+### Responsive Images
 Images account for more than 40% of the bytes downloaded to load a website. How can you make sure that your users only download the smallest image necessary while preserving image quality? Which file formats suit which image types best? How can you use art direction in images to show the best image for a viewport layout? Come learn about this an more! A basic understanding in HTML and CSS is required to get the most out of this talk. (Can be easily converted to a workshop)
 
-### Getting to Know Webpack 4 Workshop (_new!_)
+### Getting to Know Webpack 4 Workshop
 
 Are you afraid of your build tool? Fret no more. Come learn the basics of Webpack, using the new version 4. We'll learn about the new features such as sensible defaults as well as the core features. During this half-day workshop, we will build a simple application using JavaScript, HTML, CSS, and images to understand all parts of setting up the build tool.
 
