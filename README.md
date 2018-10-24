@@ -21,8 +21,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Upcoming Talks and Workshops
 
-- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [Next-level React Workshop: Redux and React Router](#next-level-react-workshop-react-router-redux-and-more)  |  10/17/2018
-- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [The Future of Front-End Performance](#the-future-of-front-end-performance)  |  10/19/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
+- [FrontEndParty](https://www.meetup.com/FrontEndParty/events/fhhcqmyxnbhc/) (New Orleans, LA)  | [Performance and Real User Monitoring]() | 10/25/2018
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) | [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop)  |  12/3/2018 
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs) | 12/4/2018
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [The Future of Front-End Performance](#the-future-of-front-end-performance) | 12/5/2018
@@ -30,6 +29,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  
 ## Previous Talks and Workshops
 
+- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [The Future of Front-End Performance](#the-future-of-front-end-performance)  |  10/19/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
+- [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [Next-level React Workshop: Redux and React Router](#next-level-react-workshop-react-router-redux-and-more)  |  10/17/2018
 - [Front-End Party](https://www.meetup.com/FrontEndParty/events/247074175/) (New Orleans, LA)  |  [Responsive Images](#responsive-images)  |  9/27/2018  |  [slides + demo + resources](https://github.com/siakaramalegos/responsive-images-demo)
 - [Full Stack Fest](https://2018.fullstackfest.com/) (Barcelona)  |  [The Future of Front-End Performance](#the-future-of-front-end-performance)  |  9/7/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
 - [Web Summer Camp](http://2018.websummercamp.com/) (Rovinj, Croatia)  |  [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop)  |  8/29/2018
@@ -72,6 +73,9 @@ Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s ea
 
 ### Responsive Images
 Images account for more than 40% of the bytes downloaded to load a website. How can you make sure that your users only download the smallest image necessary while preserving image quality? Which file formats suit which image types best? How can you use art direction in images to show the best image for a viewport layout? Come learn about this an more! A basic understanding in HTML and CSS is required to get the most out of this talk. (Can be easily converted to a workshop)
+
+### Performance and Real User Monitoring
+What is Real User Monitoring versus Synthetic Testing in the realm of front-end performance? What are some of the tools available to measure both? In this talk we'll do an overview of measurement methods and do a deep-dive on the Navigation, Resource, and User Timing APIs.
 
 ### Getting to Know Webpack 4 Workshop
 
