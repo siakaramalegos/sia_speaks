@@ -1,6 +1,6 @@
 # Sia Speaks
 
-Hello, I'm a developer in New Orleans. As a developer, I love building things that help make people's lives easier. As a person, I also love making developer's lives easier through teaching, speaking, and mentoring. You can find more information about me and the topics I speak about here. I currently talk about more JavaScript and front-end topics such as JavaScript, front-end performance, React, Redux, Node, and GraphQL. Would you like me to speak at one of your events? <a href="mailto:sia@clioandcalliope.com">Email me</a>, or [DM me on Twitter](https://twitter.com/thegreengreek)!
+Hello, I'm a developer in New Orleans and co-organizer for [FrontEndParty](https://www.meetup.com/FrontEndParty/). As a developer, I love building things that help make people's lives easier. As a person, I also love making developer's lives easier through teaching, speaking, and mentoring. You can find more information about me and the topics I speak about here. I currently talk about more JavaScript and front-end topics such as JavaScript, front-end performance, and React. Would you like me to speak at one of your events? <a href="mailto:sia@clioandcalliope.com">Email me</a>, or [DM me on Twitter](https://twitter.com/thegreengreek)!
 
 ## Contents
 
@@ -21,7 +21,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Upcoming Talks and Workshops
 
-- [FrontEndParty](https://www.meetup.com/FrontEndParty/events/fhhcqmyxnbhc/) (New Orleans, LA)  | [Performance and Real User Monitoring]() | 10/25/2018
+- [FrontEndParty](https://www.meetup.com/FrontEndParty/events/fhhcqmyxnbhc/) (New Orleans, LA)  | [Performance and Real User Monitoring](#performance-and-real-user-monitoring) | 10/25/2018
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) | [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop)  |  12/3/2018 
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs) | 12/4/2018
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [The Future of Front-End Performance](#the-future-of-front-end-performance) | 12/5/2018
