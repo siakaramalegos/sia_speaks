@@ -21,14 +21,17 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Upcoming Talks and Workshops
 
-- [FrontEndParty](https://www.meetup.com/FrontEndParty/events/fhhcqmyxnbhc/) (New Orleans, LA)  | [Performance and Real User Monitoring](#performance-and-real-user-monitoring) | 10/25/2018
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) | [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop)  |  12/3/2018 
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs) | 12/4/2018
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [The Future of Front-End Performance](#the-future-of-front-end-performance) | 12/5/2018
+- [React Finland](https://react-finland.fi/) (Helsinki) | TBA | 4/24/2019 = 4/26/2019
+- [The Front End Fest]() (Chicago, IL) | TBA | 4/1/2019 - 4/4/2019
+- [UberConf 2018](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | TBA | 7/16/2019 - 7/19/2019
 
  
 ## Previous Talks and Workshops
 
+- [FrontEndParty](https://www.meetup.com/FrontEndParty/events/fhhcqmyxnbhc/) (New Orleans, LA)  | [Performance and Real User Monitoring](#performance-and-real-user-monitoring) | 10/25/2018
 - [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [The Future of Front-End Performance](#the-future-of-front-end-performance)  |  10/19/2018  |  [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
 - [Connect.Tech](http://connect.tech/) (Atlanta, GA)  |  [Next-level React Workshop: Redux and React Router](#next-level-react-workshop-react-router-redux-and-more)  |  10/17/2018
 - [Front-End Party](https://www.meetup.com/FrontEndParty/events/247074175/) (New Orleans, LA)  |  [Responsive Images](#responsive-images)  |  9/27/2018  |  [slides + demo + resources](https://github.com/siakaramalegos/responsive-images-demo)
