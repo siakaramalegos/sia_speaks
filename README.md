@@ -25,7 +25,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs) | 12/4/2018
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [The Future of Front-End Performance](#the-future-of-front-end-performance) | 12/5/2018
 - The Front End Fest (Chicago, IL) | TBA | 4/1/2019 - 4/4/2019
-- [React Finland](https://react-finland.fi/) (Helsinki) | React Performance (TBA) | 4/24/2019 - 4/26/2019
+- [React Finland](https://react-finland.fi/) (Helsinki) | [Get in the Fast Lane: Measuring React Performance](https://gist.github.com/siakaramalegos/48295d04054bfe94d5787a7876dc57c5) (workshop) | 4/24/2019
+- [React Finland](https://react-finland.fi/) (Helsinki) | React Performance (TBA) | 4/25/2019 - 4/26/2019
 - [UberConf 2018](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | TBA | 7/16/2019 - 7/19/2019
 
  
