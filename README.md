@@ -24,6 +24,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) | [Getting to Know Webpack 4 Workshop](#getting-to-know-webpack-4-workshop)  |  12/3/2018 
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs) | 12/4/2018
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [The Future of Front-End Performance](#the-future-of-front-end-performance) | 12/5/2018
+- The Front End Fest (Chicago, IL) | [Get in the Fast Lane: Measuring Web Performance](https://gist.github.com/siakaramalegos/4621a71df28d5f163f3ca7a52a0edcb0) | 4/1/2019 - 4/4/2019
 - The Front End Fest (Chicago, IL) | TBA | 4/1/2019 - 4/4/2019
 - [React Finland](https://react-finland.fi/) (Helsinki) | [Get in the Fast Lane: Measuring React Performance](https://gist.github.com/siakaramalegos/48295d04054bfe94d5787a7876dc57c5) (workshop) | 4/24/2019
 - [React Finland](https://react-finland.fi/) (Helsinki) | React Performance (TBA) | 4/25/2019 - 4/26/2019
@@ -66,6 +67,13 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - Tech Talent South  |  Ruby on Rails 8-week boot camp  |  2015-2016
 
 ## Current Active Topics
+
+### Get in the Fast Lane: Measuring Web Performance
+Are you losing revenue to performance? 53% of mobile site visits are abandoned if a page takes longer than 3 seconds to load. Pinterest reduced load times by 40% and saw a 15% increase in sign ups. Starbucks implemented a 2x faster time to interactive resulting in a 65% increase in rewards registrations. AliExpress reduced load by 36% and saw a 10.5% increase in orders.
+
+Performance is important. Tooling can be hard. Do flame charts intimidate you? Come learn how to audit and fix common performance issues using Chrome DevTools, Lighthouse, PageSpeed Insights, and webpagetest.org. 
+
+See the full description [here](https://gist.github.com/siakaramalegos/4621a71df28d5f163f3ca7a52a0edcb0).
 
 ### How I took back my sanity: Coming back from the brink of tech addiction
 _(This is a soft talk on my story and strategies for combatting device and social media addiction and distraction.)_
