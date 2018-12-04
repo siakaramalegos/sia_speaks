@@ -8,7 +8,7 @@ Hello, I'm a developer in New Orleans and co-organizer for [FrontEndParty](https
 - [Upcoming Talks and Workshops](#upcoming-talks-and-workshops)
 - [Previous Talks and Workshops](#previous-talks-and-workshops)
 - [Current Active Topics](#current-active-topics)
-- [Bio and Testimonials](#bio-and-testimonials)
+- [Bio, Headshot, and Testimonials](#bio-headshot-and-testimonials)
 - [Social Media and Other Links](#social-media-and-other-links)
 
 ## Videos
@@ -105,7 +105,7 @@ Come learn about intermediate to advanced topics for building real-world ReactJS
 
 Do you need help with a specific topic? Would you prefer a longer workshop instead of a conference-style talk? Let me know!
 
-## Bio and Testimonials
+## Bio, Headshot, and Testimonials
 
 ### Bio - Long
 
@@ -115,6 +115,10 @@ In 2015, 2016, and 2017, Sia was recognized in the Silicon Bayou 100, the 100 mo
 
 ### Bio - Short
 Sia Karamalegos is a developer, international conference speaker, and writer. She co-organizes #FrontEndParty, gnocode, and NOLA Hack Night in the New Orleans area. She is the founder and lead developer for Clio + Calliope Web Development and was recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. When she's not coding, speaking, or consulting, Sia likes to design crochet patterns and dabble in charcoal figure drawing. She's also an avid endurance athlete.
+
+### Headshot
+
+https://drive.google.com/file/d/0BwRL6D34a40YZUxtUjExak9XRXc/view
 
 ### Testimonials 
 
