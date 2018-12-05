@@ -23,6 +23,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 - The Front End Fest (Chicago, IL) | [Get in the Fast Lane: Measuring Web Performance](https://gist.github.com/siakaramalegos/4621a71df28d5f163f3ca7a52a0edcb0) | 4/1/2019
 - The Front End Fest (Chicago, IL) | TBA | 4/2/2019 - 4/4/2019
+- [JSHeroes](https://jsheroes.io/) (Cluj-Napoca, Romania) | Advanced Performance Tuning for React Applications | 4/10/2019
 - [React Finland](https://react-finland.fi/) (Helsinki) | [Get in the Fast Lane: Measuring React Performance](https://gist.github.com/siakaramalegos/48295d04054bfe94d5787a7876dc57c5) (workshop) | 4/24/2019
 - [React Finland](https://react-finland.fi/) (Helsinki) | React Performance (TBA) | 4/25/2019 - 4/26/2019
 - [UberConf 2018](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | TBA | 7/16/2019 - 7/19/2019
