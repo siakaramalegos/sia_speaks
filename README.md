@@ -29,7 +29,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  
 ## Previous Talks and Workshops
 
-- [GDG New Orleans](https://www.meetup.com/gdg-new-orleans) (New Orleans, LA) | [Hint, hint, perf matters!]() | 12/18/2018
+- [GDG New Orleans](https://www.meetup.com/gdg-new-orleans) (New Orleans, LA) | [Hint, hint, perf matters!](#hint-hint-perf-matters) | 12/18/2018 | [repo](https://github.com/siakaramalegos/google-fonts-self-hosting)
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [The Future of Front-End Performance](#the-future-of-front-end-performance) | 12/5/2018 | [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs) | 12/4/2018 | [slides + more](https://github.com/siakaramalegos/nextjs-workshop-demo)
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Responsive Images](#responsive-images) | 12/3/2018 | [slides + demo + resources](https://github.com/siakaramalegos/responsive-images-demo)
