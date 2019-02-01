@@ -29,6 +29,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  
 ## Previous Talks and Workshops
 
+- [GDG New Orleans](https://www.meetup.com/gdg-new-orleans) (New Orleans, LA) | [Hint, hint, perf matters!]() | 12/18/2018
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [The Future of Front-End Performance](#the-future-of-front-end-performance) | 12/5/2018 | [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs) | 12/4/2018 | [slides + more](https://github.com/siakaramalegos/nextjs-workshop-demo)
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Responsive Images](#responsive-images) | 12/3/2018 | [slides + demo + resources](https://github.com/siakaramalegos/responsive-images-demo)
@@ -67,6 +68,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - Tech Talent South  |  Ruby on Rails 8-week boot camp  |  2015-2016
 
 ## Current Active Topics
+
+### Hint, hint, perf matters!
+
+Resource hints are a cool way to play tricks with latency to load web applications faster. Come learn all about resource hints as we apply them to Google Fonts to make them faster.
 
 ### Get in the Fast Lane: Measuring Web Performance
 Are you losing revenue to performance? 53% of mobile site visits are abandoned if a page takes longer than 3 seconds to load. Pinterest reduced load times by 40% and saw a 15% increase in sign ups. Starbucks implemented a 2x faster time to interactive resulting in a 65% increase in rewards registrations. AliExpress reduced load by 36% and saw a 10.5% increase in orders.
