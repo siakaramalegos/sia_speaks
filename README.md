@@ -1,6 +1,6 @@
 # Sia Speaks
 
-Hello, I'm a developer in New Orleans and co-organizer for [FrontEndParty](https://www.meetup.com/FrontEndParty/). As a developer, I love building things that help make people's lives easier. As a person, I also love making developer's lives easier through teaching, speaking, and mentoring. You can find more information about me and the topics I speak about here. I currently talk about more JavaScript and front-end topics such as JavaScript, front-end performance, and React. Would you like me to speak at one of your events? <a href="mailto:sia@clioandcalliope.com">Email me</a>, or [DM me on Twitter](https://twitter.com/thegreengreek)!
+Hello, I'm a Google Developer Expert in Web Technologies based in New Orleans. I'm also a [Women Techmakers](https://www.womentechmakers.com/) ambassador and co-organizer for [GDG New Orleans](https://www.meetup.com/gdg-new-orleans/), [FrontEndParty](https://www.meetup.com/FrontEndParty/), and [Hack Night](http://nolahacknight.com/). As a developer, I love building things that help make people's lives easier. As a person, I also love making developer's lives easier through teaching, speaking, and mentoring. You can find more information about me and the topics I speak about here. I currently talk about more JavaScript and front-end topics such as JavaScript, front-end performance, and React. Would you like me to speak at one of your events? <a href="mailto:sia@clioandcalliope.com">Email me</a>, or [DM me on Twitter](https://twitter.com/thegreengreek)!
 
 ## Contents
 
@@ -24,7 +24,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - [JSHeroes](https://jsheroes.io/) (Cluj-Napoca, Romania) | Advanced Performance Tuning for React Applications | 4/10/2019
 - [React Finland](https://react-finland.fi/) (Helsinki) | [Get in the Fast Lane: Measuring React Performance](https://gist.github.com/siakaramalegos/48295d04054bfe94d5787a7876dc57c5) (workshop) | 4/24/2019
 - [React Finland](https://react-finland.fi/) (Helsinki) | React Performance (TBA) | 4/25/2019 - 4/26/2019
-- [UberConf 2018](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | TBA | 7/16/2019 - 7/19/2019
 
  
 ## Previous Talks and Workshops
@@ -74,7 +73,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 Resource hints are a cool way to play tricks with latency to load web applications faster. Come learn all about resource hints as we apply them to Google Fonts to make them faster.
 
 ### Get in the Fast Lane: Measuring Web Performance
-Are you losing revenue to performance? 53% of mobile site visits are abandoned if a page takes longer than 3 seconds to load. Pinterest reduced load times by 40% and saw a 15% increase in sign ups. Starbucks implemented a 2x faster time to interactive resulting in a 65% increase in rewards registrations. AliExpress reduced load by 36% and saw a 10.5% increase in orders.
+(Workshop) Are you losing revenue to performance? 53% of mobile site visits are abandoned if a page takes longer than 3 seconds to load. Pinterest reduced load times by 40% and saw a 15% increase in sign ups. Starbucks implemented a 2x faster time to interactive resulting in a 65% increase in rewards registrations. AliExpress reduced load by 36% and saw a 10.5% increase in orders.
 
 Performance is important. Tooling can be hard. Do flame charts intimidate you? Come learn how to audit and fix common performance issues using Chrome DevTools, Lighthouse, PageSpeed Insights, and webpagetest.org. 
 
