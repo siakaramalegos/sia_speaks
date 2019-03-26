@@ -21,13 +21,17 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Upcoming Talks and Workshops
 
-- [JSHeroes](https://jsheroes.io/) (Cluj-Napoca, Romania) | Advanced Performance Tuning for React Applications | 4/10/2019
-- [React Finland](https://react-finland.fi/) (Helsinki) | [Get in the Fast Lane: Measuring React Performance](https://gist.github.com/siakaramalegos/48295d04054bfe94d5787a7876dc57c5) (workshop) | 4/24/2019
-- [React Finland](https://react-finland.fi/) (Helsinki) | React Performance (TBA) | 4/25/2019 - 4/26/2019
+- [Peers Conference](http://peersconf.com/) (New Orleans, LA) | [Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Half-Day Workshop | 4/3/2019
+- [Activate Conf](http://www.activateconf.com/) (Baton Rouge, LA) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 4/6/2019
+- [MagnoliaJS](https://magnoliajs.com/) (Jackson, MS) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 4/17/2019
+- [MagnoliaJS](https://magnoliajs.com/) (Jackson, MS) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 4/17/2019
+- [WeRockIT Conf](https://werockitconf.com/) (Huntsville, AL) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 5/3/2019
 
  
 ## Previous Talks and Workshops
 
+- [IWD New Orleans 2019](https://www.meetup.com/gdg-new-orleans/events/258679259/) | [#IamRemarkable Workshop](#IamRemarkable-Workshop) | 3/23/2019
+- [IWD New Orleans 2019](https://www.meetup.com/gdg-new-orleans/events/258679259/) | Why Web Performance Matters | 3/23/2019
 - [GDG New Orleans](https://www.meetup.com/gdg-new-orleans) (New Orleans, LA) | [Hint, hint, perf matters!](#hint-hint-perf-matters) | 12/18/2018 | [repo](https://github.com/siakaramalegos/google-fonts-self-hosting)
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [The Future of Front-End Performance](#the-future-of-front-end-performance) | 12/5/2018 | [slides + more](https://gist.github.com/siakaramalegos/76b5165c94c2928b246115977dd590b5)
 - [The Rich Web Experience](https://therichwebexperience.com) (Clearwater, FL) |  [Universal React Apps Using Next.js](#universal-react-apps-using-nextjs) | 12/4/2018 | [slides + more](https://github.com/siakaramalegos/nextjs-workshop-demo)
@@ -67,6 +71,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - Tech Talent South  |  Ruby on Rails 8-week boot camp  |  2015-2016
 
 ## Current Active Topics
+
+### #IamRemarkable Workshop
+
+[#IamRemarkable](https://iamremarkable.withgoogle.com/) is a Google initiative empowering women and underrepresented groups to celebrate their achievements in the workplace and beyond. This 90-minute workshop highlights to participants the importance of self promotion in their careers and provides them with the tools to practice this skill. I am an official #IamRemarkable facilitator.
 
 ### Hint, hint, perf matters!
 
