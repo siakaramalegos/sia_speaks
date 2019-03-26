@@ -24,7 +24,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - [Peers Conference](http://peersconf.com/) (New Orleans, LA) | [Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Half-Day Workshop | 4/3/2019
 - [Activate Conf](http://www.activateconf.com/) (Baton Rouge, LA) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 4/6/2019
 - [MagnoliaJS](https://magnoliajs.com/) (Jackson, MS) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 4/17/2019
-- [MagnoliaJS](https://magnoliajs.com/) (Jackson, MS) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 4/17/2019
+- [MagnoliaJS](https://magnoliajs.com/) (Jackson, MS) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 4/18/2019
 - [WeRockIT Conf](https://werockitconf.com/) (Huntsville, AL) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 5/3/2019
 
  
