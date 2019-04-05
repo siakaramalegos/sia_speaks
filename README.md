@@ -21,7 +21,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Upcoming Talks and Workshops
 
-- [Peers Conference](http://peersconf.com/) (New Orleans, LA) | [Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Half-Day Workshop | 4/3/2019
 - [Activate Conf](http://www.activateconf.com/) (Baton Rouge, LA) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 4/6/2019
 - [MagnoliaJS](https://magnoliajs.com/) (Jackson, MS) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 4/17/2019
 - [MagnoliaJS](https://magnoliajs.com/) (Jackson, MS) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 4/18/2019
@@ -30,6 +29,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  
 ## Previous Talks and Workshops
 
+- [Peers Conference](http://peersconf.com/) (New Orleans, LA) | [Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Half-Day Workshop | 4/3/2019
 - [IWD New Orleans 2019](https://www.meetup.com/gdg-new-orleans/events/258679259/) | [#IamRemarkable Workshop](#IamRemarkable-Workshop) | 3/23/2019
 - [IWD New Orleans 2019](https://www.meetup.com/gdg-new-orleans/events/258679259/) | Why Web Performance Matters | 3/23/2019
 - [GDG New Orleans](https://www.meetup.com/gdg-new-orleans) (New Orleans, LA) | [Hint, hint, perf matters!](#hint-hint-perf-matters) | 12/18/2018 | [repo](https://github.com/siakaramalegos/google-fonts-self-hosting)
