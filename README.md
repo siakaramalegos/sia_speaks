@@ -74,6 +74,13 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Current Active Topics
 
+### Modern JavaScript for Modern Browsers
+
+More developers are starting to understand that web performance matters. From higher mobile search rankings to bottom-line revenue impacts, performance can make or break your web app. However, fixing performance can feel like a quagmire of expert-level nuanced understanding on so many topics. What would you think if I told you you could cut your JavaScript bundle size up to 50% by doing one thing only? Nearly 90% of worldwide web traffic runs on modern browsers, but we're transpiling all of our JavaScript down to ES5. That transpilation has a cost. In this talk, we'll learn about differential serving, or serving modern bundles to modern browsers and legacy, transpiled bundles to older browsers. We'll talk about strategies, what to watch out for, and how to implement it using webpack. This talk is framework agnostic, and it's best if you have at least a basic understand of JavaScript.
+
+### The Future of Front-End Performance
+Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. What data should we use to inform our decisions? From code splitting, lazy loading, and tree shaking to bundle analysis, progressive rendering, and modern transpiling, come learn how you can deliver a better experience to your users with high-performing front-end apps. This talk is library-agnostic (React, Angular, Vue, etc.).
+
 ### #IamRemarkable Workshop
 
 [#IamRemarkable](https://iamremarkable.withgoogle.com/) is a Google initiative empowering women and underrepresented groups to celebrate their achievements in the workplace and beyond. This 90-minute workshop highlights to participants the importance of self promotion in their careers and provides them with the tools to practice this skill. I am an official #IamRemarkable facilitator.
@@ -88,14 +95,6 @@ Resource hints are a cool way to play tricks with latency to load web applicatio
 Performance is important. Tooling can be hard. Do flame charts intimidate you? Come learn how to audit and fix common performance issues using Chrome DevTools, Lighthouse, PageSpeed Insights, and webpagetest.org. 
 
 See the full description [here](https://gist.github.com/siakaramalegos/4621a71df28d5f163f3ca7a52a0edcb0).
-
-### How I took back my sanity: Coming back from the brink of tech addiction
-_(This is a soft talk on my story and strategies for combatting device and social media addiction and distraction.)_
-
-Our lives aren’t our lives anymore. We distract ourselves with social media. We stress about negative news and discourse. We avoid the tough problems. Over the last eight years, I’ve made a sea change in my levels of stress and happiness. I’m sharing my discoveries in the hopes that it can help you in your own journey to contentment. 
-
-### The Future of Front-End Performance
-Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. What data should we use to inform our decisions? From code splitting, lazy loading, and tree shaking to bundle analysis, progressive rendering, and modern transpiling, come learn how you can deliver a better experience to your users with high-performing front-end apps. This talk is library-agnostic (React, Angular, Vue, etc.).
 
 ### Responsive Images
 Images account for more than 40% of the bytes downloaded to load a website. How can you make sure that your users only download the smallest image necessary while preserving image quality? Which file formats suit which image types best? How can you use art direction in images to show the best image for a viewport layout? Come learn about this an more! A basic understanding in HTML and CSS is required to get the most out of this talk. (Can be easily converted to a workshop)
