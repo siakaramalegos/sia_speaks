@@ -24,6 +24,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - [UberConf](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 7/16/2019
 - [UberConf](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 7/17/2019
 - [ConnectTech](http://connect.tech/) (Atlanta, GA) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 10/16/2019
+- [ConnectTech](http://connect.tech/) (Atlanta, GA) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 10/18/2019
  
 ## Previous Talks and Workshops
 
@@ -124,10 +125,10 @@ Do you need help with a specific topic? Would you prefer a longer workshop inste
 
 Sia Karamalegos is the founder and lead developer Clio + Calliope, a mobile and web design and development firm based in New Orleans. She has over 15 years of experience in technology, strategy, project management, and operations from small startups to large corporations across multiple industries, especially high-tech and education. She taught web development to adults at Tech Talent South, a southern-based tech education company, and wrote curriculum for Viking Code School, the top online software engineering training and job placement program.
 
-Sia is a Google Developer Expert in Web Technologies and a Women Techmakers ambassador. She co-organizes #FrontEndParty, GDG New Orleans, and NOLA Hack Night in the New Orleans area. She has been recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. She graduated from Texas A&M University with a BS in chemical engineering and received her MBA from Harvard Business School. When she's not coding, speaking, or consulting, Sia likes to design crochet patterns and dabble in charcoal figure drawing. She's also an avid endurance athlete.
+Sia is a Google Developer Expert in Web Technologies and a Women Techmakers ambassador. She co-organizes GDG New Orleans and its marquee event, DevFest New Orleans. She has been recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. She graduated from Texas A&M University with a BS in chemical engineering and received her MBA from Harvard Business School. When she's not coding, speaking, or consulting, Sia likes to write short stories and dabble in charcoal figure drawing. She's also an avid endurance athlete.
 
 ### Bio - Short
-Sia Karamalegos is a developer, international conference speaker, and writer. She is a Google Developer Expert in Web Technologies and a Women Techmakers ambassador. She co-organizes #FrontEndParty, GDG New Orleans, and NOLA Hack Night in the New Orleans area. She is the founder and lead developer for Clio + Calliope Web Development and was recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. When she's not coding, speaking, or consulting, Sia likes to design crochet patterns and dabble in charcoal figure drawing. She's also an avid endurance athlete.
+Sia Karamalegos is a developer, international conference speaker, and writer. She is a Google Developer Expert in Web Technologies and a Women Techmakers ambassador. She co-organizes GDG New Orleans and its marquee event, DevFest New Orleans. She is the founder and lead developer for Clio + Calliope Web Development and was recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. When she's not coding, speaking, or consulting, Sia likes to write short stories and dabble in charcoal figure drawing. She's also an avid endurance athlete.
 
 ### Headshot
 
