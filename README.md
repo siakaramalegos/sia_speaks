@@ -1,6 +1,6 @@
 # Sia Speaks
 
-Hello, I'm a Google Developer Expert in Web Technologies based in New Orleans. I'm also a [Women Techmakers](https://www.womentechmakers.com/) ambassador and co-organizer for [GDG New Orleans](https://www.meetup.com/gdg-new-orleans/), [FrontEndParty](https://www.meetup.com/FrontEndParty/), and [Hack Night](http://nolahacknight.com/). As a developer, I love building things that help make people's lives easier. As a person, I also love making developer's lives easier through teaching, speaking, and mentoring. You can find more information about me and the topics I speak about here. I currently talk about more JavaScript and front-end topics such as JavaScript, front-end performance, and React. Would you like me to speak at one of your events? <a href="mailto:sia@clioandcalliope.com">Email me</a>, or [DM me on Twitter](https://twitter.com/thegreengreek)!
+Hello, I'm a Google Developer Expert in Web Technologies based in New Orleans. I'm also a [Women Techmakers](https://www.womentechmakers.com/) ambassador and co-organizer for [GDG New Orleans](https://www.meetup.com/gdg-new-orleans/). As a developer, I love building things that help make people's lives easier. As a person, I also love making developer's lives easier through teaching, speaking, and mentoring. You can find more information about me and the topics I speak about here. I currently talk about more JavaScript and front-end topics such as JavaScript, front-end performance, and React. Would you like me to speak at one of your events? <a href="mailto:sia@clioandcalliope.com">Email me</a>, or [DM me on Twitter](https://twitter.com/thegreengreek)!
 
 ## Contents
 
@@ -140,7 +140,7 @@ https://drive.google.com/file/d/0BwRL6D34a40YZUxtUjExak9XRXc/view
 
 ## Social Media and Other Links
 
-- [Personal website](https://siakaramalegos.github.io/)
+- [Personal website](https://sia.codes)
 - [Twitter](https://twitter.com/thegreengreek)
 - [Medium](https://medium.com/@thegreengreek)
 - [GitHub](https://github.com/siakaramalegos)
