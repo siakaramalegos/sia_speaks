@@ -1,5 +1,13 @@
 # Archived Talks
 
+## Universal React Apps Using Next.js
+
+Every user’s hardware is different, and processing speed can hinder user experience on client-side rendered React applications. Server-side rendering and code-splitting can drastically improve user experience by minimizing the work that the client has to do. It’s easy to get lost in the lingo, so come learn what it all means and how to easily build universal React apps using the Next.js framework. We’ll walk through the concepts and use code examples to cement your understanding. You’ll get the most out of this session if you’re comfortable with React and ES6 syntax.
+
+## Next-level React Workshop: React Router, Redux and More
+
+Come learn about intermediate to advanced topics for building real-world ReactJS Web applications in this full-day workshop. We will start by learning about the core fundamentals of Redux including pure functions, actions, reducers, the store, and subscriptions. Then we will integration Redux into a React app, learning about components vs containers, accessing the store, async actions, middleware, and thunks. Next, we will layer in React Router 4, learning about params, queries, and redirects; prompt before navigation, and scrollToTop. Time permitting and based on audience preferences, we can learn about using component libraries, styling, ES6+, and more! Basic knowledge of React is required for this workshop. 
+
 ## No REST for the weary... Introducing GraphQL
 
 RESTful APIs can make fetching data pretty hairy sometimes, but fetching data doesn’t have to be so difficult. Enter GraphQL… the query language where you can ask for exactly what you need with a single HTTP request. Come learn what all the buzz is about!
