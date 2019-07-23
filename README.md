@@ -24,6 +24,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - [ConnectTech](http://connect.tech/) (Atlanta, GA) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 10/16/2019
 - [ConnectTech](http://connect.tech/) (Atlanta, GA) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 10/18/2019
 - [The Progressive Web Experience](https://progressivewebexperience.io/conference/clearwater/2019/12/home) (Clearwater, FL) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 12/1/2019
+- [The Progressive Web Experience](https://progressivewebexperience.io/conference/clearwater/2019/12/home) (Clearwater, FL) | [#IamRemarkable Workshop](#IamRemarkable-Workshop) | 12/2/2019
+- [The Progressive Web Experience](https://progressivewebexperience.io/conference/clearwater/2019/12/home) (Clearwater, FL) | [Modern JavaScript for Modern Browsers](#modern-javascript-for-modern-browsers) | 12/3/2019
 - [The Progressive Web Experience](https://progressivewebexperience.io/conference/clearwater/2019/12/home) (Clearwater, FL) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 12/3/2019
  
 ## Previous Talks and Workshops
@@ -108,14 +110,6 @@ What is Real User Monitoring versus Synthetic Testing in the realm of front-end 
 ### Getting to Know Webpack 4 Workshop
 
 Are you afraid of your build tool? Fret no more. Come learn the basics of Webpack, using the new version 4. We'll learn about the new features such as sensible defaults as well as the core features. During this half-day workshop, we will build a simple application using JavaScript, HTML, CSS, and images to understand all parts of setting up the build tool.
-
-### Universal React Apps Using Next.js
-
-Every user’s hardware is different, and processing speed can hinder user experience on client-side rendered React applications. Server-side rendering and code-splitting can drastically improve user experience by minimizing the work that the client has to do. It’s easy to get lost in the lingo, so come learn what it all means and how to easily build universal React apps using the Next.js framework. We’ll walk through the concepts and use code examples to cement your understanding. You’ll get the most out of this session if you’re comfortable with React and ES6 syntax.
-
-### Next-level React Workshop: React Router, Redux and More
-
-Come learn about intermediate to advanced topics for building real-world ReactJS Web applications in this full-day workshop. We will start by learning about the core fundamentals of Redux including pure functions, actions, reducers, the store, and subscriptions. Then we will integration Redux into a React app, learning about components vs containers, accessing the store, async actions, middleware, and thunks. Next, we will layer in React Router 4, learning about params, queries, and redirects; prompt before navigation, and scrollToTop. Time permitting and based on audience preferences, we can learn about using component libraries, styling, ES6+, and more! Basic knowledge of React is required for this workshop. 
 
 ### Your Idea Here
 
