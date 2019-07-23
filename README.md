@@ -21,13 +21,15 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Upcoming Talks and Workshops
 
-- [UberConf](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 7/16/2019
-- [UberConf](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 7/17/2019
 - [ConnectTech](http://connect.tech/) (Atlanta, GA) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 10/16/2019
 - [ConnectTech](http://connect.tech/) (Atlanta, GA) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 10/18/2019
+- [The Progressive Web Experience](https://progressivewebexperience.io/conference/clearwater/2019/12/home) (Clearwater, FL) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 12/1/2019
+- [The Progressive Web Experience](https://progressivewebexperience.io/conference/clearwater/2019/12/home) (Clearwater, FL) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 12/3/2019
  
 ## Previous Talks and Workshops
 
+- [UberConf](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 7/16/2019
+- [UberConf](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 7/17/2019 | [slides + more](https://github.com/siakaramalegos/web-performance-long)
 - [WeRockIT Conf](https://werockitconf.com/) (Huntsville, AL) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 5/3/2019 | [slides](https://siakaramalegos.github.io/performance-talk-slides/)
 - [MagnoliaJS](https://magnoliajs.com/) (Jackson, MS) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 4/17/2019 | [slides](https://siakaramalegos.github.io/performance-talk-slides/)
 - [MagnoliaJS](https://magnoliajs.com/) (Jackson, MS) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 4/18/2019
