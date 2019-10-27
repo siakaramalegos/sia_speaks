@@ -95,14 +95,12 @@ Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s ea
 Resource hints are a cool way to play tricks with latency to load web applications faster. Come learn all about resource hints as we apply them to Google Fonts to make them faster.
 
 ### Get in the Fast Lane: Measuring Web Performance
-(Workshop) Are you losing revenue to performance? 53% of mobile site visits are abandoned if a page takes longer than 3 seconds to load. Pinterest reduced load times by 40% and saw a 15% increase in sign ups. Starbucks implemented a 2x faster time to interactive resulting in a 65% increase in rewards registrations. AliExpress reduced load by 36% and saw a 10.5% increase in orders.
-
-Performance is important. Tooling can be hard. Do flame charts intimidate you? Come learn how to audit and fix common performance issues using Chrome DevTools, Lighthouse, PageSpeed Insights, and webpagetest.org. 
+(Workshop) Are you losing revenue to performance? 53% of mobile site visits are abandoned if a page takes longer than 3 seconds to load. Performance is important. Tooling can be hard. Do flame charts intimidate you? Come learn how to audit and fix common performance issues using Chrome DevTools, Lighthouse, PageSpeed Insights, and webpagetest.org. In this hands-on workshop, we’ll learn about the most common performance pitfalls and fix latency, image, and JavaScript issues in a sample web application. You must understand HTML, CSS, JavaScript, and running npm scripts to get the most out of this workshop. Understanding webpack is helpful but not required.  
 
 See the full description [here](https://gist.github.com/siakaramalegos/4621a71df28d5f163f3ca7a52a0edcb0).
 
 ### Responsive Images
-Images account for more than 40% of the bytes downloaded to load a website. How can you make sure that your users only download the smallest image necessary while preserving image quality? Which file formats suit which image types best? How can you use art direction in images to show the best image for a viewport layout? Come learn about this an more! A basic understanding in HTML and CSS is required to get the most out of this talk. (Can be easily converted to a workshop)
+Images account for more than 40% of the bytes downloaded to load a website. How can you make sure that your users only download the smallest image necessary while preserving image quality? Which file formats suit which image types best? How can you use art direction in images to show the best image for a viewport layout? Come learn about this and more! A basic understanding in HTML and CSS is required to get the most out of this talk. (Can be easily converted to a half-day workshop)
 
 ### Performance and Real User Monitoring
 What is Real User Monitoring versus Synthetic Testing in the realm of front-end performance? What are some of the tools available to measure both? In this talk we'll do an overview of measurement methods and do a deep-dive on the Navigation, Resource, and User Timing APIs.
