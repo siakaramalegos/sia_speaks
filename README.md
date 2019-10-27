@@ -21,8 +21,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Upcoming Talks and Workshops
 
-- [ConnectTech](http://connect.tech/) (Atlanta, GA) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 10/16/2019
-- [ConnectTech](http://connect.tech/) (Atlanta, GA) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 10/18/2019
 - [The Progressive Web Experience](https://progressivewebexperience.io/conference/clearwater/2019/12/home) (Clearwater, FL) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 12/1/2019
 - [The Progressive Web Experience](https://progressivewebexperience.io/conference/clearwater/2019/12/home) (Clearwater, FL) | [#IamRemarkable Workshop](#IamRemarkable-Workshop) | 12/2/2019
 - [The Progressive Web Experience](https://progressivewebexperience.io/conference/clearwater/2019/12/home) (Clearwater, FL) | [Modern JavaScript for Modern Browsers](#modern-javascript-for-modern-browsers) | 12/3/2019
@@ -30,6 +28,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  
 ## Previous Talks and Workshops
 
+- [ConnectTech](http://connect.tech/) (Atlanta, GA) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 10/16/2019
+- [ConnectTech](http://connect.tech/) (Atlanta, GA) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 10/18/2019
 - [UberConf](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | [Get in the Fast Lane: Measuring Web Performance](#get-in-the-fast-lane-measuring-web-performance) Full-Day Workshop | 7/16/2019
 - [UberConf](https://uberconf.com/conference/denver/2019/07/home) (Denver, CO) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 7/17/2019 | [slides + more](https://github.com/siakaramalegos/web-performance-long)
 - [WeRockIT Conf](https://werockitconf.com/) (Huntsville, AL) | [The Future of Front-End Performance](#the-future-of-front-end-performance) | 5/3/2019 | [slides](https://siakaramalegos.github.io/performance-talk-slides/)
